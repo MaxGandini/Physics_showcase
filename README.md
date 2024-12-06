@@ -6,6 +6,7 @@ This is for a Glow experiment with Helium and Air:
 
 This is for a machine learning project applied on government birth databases:
 
-![prediccion (1)](https://github.com/user-attachments/assets/fd4c83cc-030a-4476-a498-02bb2af83d12)
 ![caida (1)](https://github.com/user-attachments/assets/3a56572a-c979-4a25-bc82-205a28c81ea3)
+![prediccion (1)](https://github.com/user-attachments/assets/fd4c83cc-030a-4476-a498-02bb2af83d12)
+
 
