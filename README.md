@@ -1,8 +1,11 @@
 A Repo for showcasing some of my works in analyzing physics experiments.
 
-### Induced current on a coil
+### Charge accumulation on a coil
 
-Simulated the whole system of a magnetic pendulus swinging over a coil.
+Simulated the whole system of a magnetic pendulus swinging over a coil. From the swinging to modeling the
+magnet as a dipole and integrating the equations on the surface. Below the video there is a graph showing the predicted
+current, where there is a third peak which happens because of charge accumulation. This third peak is achieved by considering
+the self-inductance and capacity of the wires while they carry the magnet's energy.
 
 https://github.com/user-attachments/assets/f202b949-f083-4c97-a799-b76e74b191d3
 
