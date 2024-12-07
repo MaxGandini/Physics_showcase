@@ -4,10 +4,9 @@ A Repo for showcasing some of my works in analyzing physics experiments.
 
 Simulated the whole system of a magnetic pendulus swinging over a coil.
 
-![var](https://github.com/user-attachments/assets/b7c2a2d6-00bd-497a-bf34-3b9acd65f988)
-
 https://github.com/user-attachments/assets/f202b949-f083-4c97-a799-b76e74b191d3
 
+![Figure 2022-07-05 033338](https://github.com/user-attachments/assets/f5fc8505-c65a-4184-a886-f5cbc0d4184a)
 
 ### Glow experiment with Helium and Air
 
