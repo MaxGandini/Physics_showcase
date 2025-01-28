@@ -34,7 +34,7 @@ For the Quantum Open systems course final, a simulation on quantum decoherence w
 
 [https://www.researchgate.net/publication/1894264_Spontaneous_Symmetry_Breaking_and_Decoherence_in_Superconductors]
 
-These simulations reproduce the claims of the paper and the mathematics and code are discussed on the powerpoint presentation. Alongside this, there's 
+These simulations reproduce the claims of the paper, the mathematics and code are discussed on the powerpoint presentation. Alongside this, there's 
 a code showcase of QuTip, calculating quantum de-coherence in 3D using a wigner function, shannon entropy and Lindblad equations.
 
 ##### Representing the thermodynamic limit in the paper:
