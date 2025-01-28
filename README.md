@@ -30,9 +30,14 @@ front of the staircase and the reflection of the sound, sounds like the chant of
 
 ### Quantum decoherence
 
-For the Quantum Open systems course final, a simulation on quantum decoherence was based on the well known paper of Jasper Van Wessel and Jeroen van den Brink. [https://www.researchgate.net/publication/1894264_Spontaneous_Symmetry_Breaking_and_Decoherence_in_Superconductors]
+For the Quantum Open systems course final, a simulation on quantum decoherence was based on the well known paper of Jasper Van Wessel and Jeroen van den Brink. 
+[https://www.researchgate.net/publication/1894264_Spontaneous_Symmetry_Breaking_and_Decoherence_in_Superconductors]
 This simulations reproduce the claims of the paper and the mathematics and code are discussed on the powerpoint presentation. Alongside this, there's 
 a code showcase of QuTip, calculating quantum de-coherence in 3D using a wigner function, shannon entropy and Lindblad equations.
 
+##### Representing the thermodynamic limit in the paper:
 ![Quantum_decoherence](https://github.com/user-attachments/assets/0aeacc83-cfb6-499f-9f82-8aa3a5cbce5c)
+
+##### Calculating decoherence states through Wigner Function:
+![Wigner](https://github.com/user-attachments/assets/2aaa081b-5cc8-45da-b938-d4122ea4378b)
 
