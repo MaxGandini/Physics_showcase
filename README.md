@@ -23,8 +23,7 @@ papers in the field.
 
 ### Song of the Quet Zal
 
-This is a poster that showcases a physical model derived for the kukulcan sound effect, where a person applauds in 
-front of the staircase and the reflection of the sound, sounds like the chant of the regional bird "Quet-Zal".
+This is a poster that showcases a physical model derived for the pyramid of Chichen Itza sound effect, where a person applauds in front of the staircase and the reflection of the sound, sounds like the chant of the regional bird "Quet-Zal".
 By considering a spherical wave and assuming certain dimensions for the applauder, we can use the known dimensions of the pyramid to derive a model for the reflection of the wave packet emmited from the hands.
 
 ![CodeCogsEqn(1)](https://github.com/user-attachments/assets/cd5161bf-c145-42ee-b59b-3655ae8f4510)
