@@ -22,7 +22,17 @@ papers in the field.
 ![paschen](https://github.com/user-attachments/assets/6c065103-0804-4193-9643-7945878a8960)
 
 ### Song of the Quet Zal
+
 This is a poster that showcases a physical model devised for the kukulcan sound effect, where a person applauds in 
 front of the staircase and the reflection of the sound, sounds like the chant of the regional bird "Quet-Zal".
 
 [Kukulcan sound effect.pdf](https://github.com/user-attachments/files/18042911/Kukulcan.sound.effect.pdf)
+
+### Quantum decoherence
+
+For the Quantum Open systems course final, a simulation on quantum decoherence was based on the well known paper of Jasper Van Wessel and Jeroen van den Brink.
+This simulations reproduce the claims of the paper and the mathematics and code are discussed on the powerpoint presentation. Alongside this presentation, there's 
+a code showcase of QuTip, calculating quantum de-coherence in 3D using a wigner function, shannon entropy and Lindblad equations.
+
+![Quantum_decoherence](https://github.com/user-attachments/assets/0aeacc83-cfb6-499f-9f82-8aa3a5cbce5c)
+
