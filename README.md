@@ -26,8 +26,11 @@ papers in the field.
 This is a poster that showcases a physical model devised for the kukulcan sound effect, where a person applauds in 
 front of the staircase and the reflection of the sound, sounds like the chant of the regional bird "Quet-Zal".
 By considering a spherical wave and assuming certain dimensions for the applauder, we can use the known dimensions of the pyramid to derive a model for the reflection of the wave packet emmited from the hands.
-$$\psi _{r} = \sum_{j}^{N} \int \sqrt(2 \pi) F(\omega) e^{2 k_z h - \omega (t-2t_j)} d\omega$$
-We limit the study to just the reflection of the stairs because of many unknown parameters for the other parts of the structure and the low sound quality in the recordings used.
+
+![CodeCogsEqn](https://github.com/user-attachments/assets/7a0550e6-9961-453a-a6ca-f4314af80076)
+(More details on the poster)
+
+We limit the study to just the reflection of the stairs because of many unknown parameters for the other parts of the structure and the low sound quality in the recordings used. The simulation was able to reproduce the main frequencies and it's harmonics, returning a sound which goes from high to low frequencies in delay.
 
 [Kukulcan sound effect.pdf](https://github.com/user-attachments/files/18042911/Kukulcan.sound.effect.pdf)
 
