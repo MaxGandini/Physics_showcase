@@ -25,6 +25,9 @@ papers in the field.
 
 This is a poster that showcases a physical model devised for the kukulcan sound effect, where a person applauds in 
 front of the staircase and the reflection of the sound, sounds like the chant of the regional bird "Quet-Zal".
+By considering a spherical wave and assuming certain dimensions for the applauder, we can use the known dimensions of the pyramid to derive a model for the reflection of the wave packet emmited from the hands.
+$$\psi _{r} = \sum_{j}^{N} \int \sqrt(2 \pi) F(\omega) e^{2 k_z h - \omega (t-2t_j)} d\omega$$
+We limit the study to just the reflection of the stairs because of many unknown parameters for the other parts of the structure and the low sound quality in the recordings used.
 
 [Kukulcan sound effect.pdf](https://github.com/user-attachments/files/18042911/Kukulcan.sound.effect.pdf)
 
@@ -38,8 +41,10 @@ These simulations reproduce the claims of the paper, the mathematics and code ar
 a code showcase of QuTip, calculating quantum de-coherence in 3D using a wigner function, shannon entropy and Lindblad equations.
 
 ##### Representing the thermodynamic limit in the paper:
+[https://colab.research.google.com/drive/1FQW11Z5ZdgpZ0wwMsZM-oYdCLj2T2Gy4?usp=sharing]
 ![Quantum_decoherence](https://github.com/user-attachments/assets/0aeacc83-cfb6-499f-9f82-8aa3a5cbce5c)
 
 ##### Calculating decoherence states through Wigner Function:
+[https://colab.research.google.com/drive/1az9r_QF-a4nPH0gQkQxxDS5-uB7EZU_5?usp=sharing]
 ![Wigner](https://github.com/user-attachments/assets/2aaa081b-5cc8-45da-b938-d4122ea4378b)
 
