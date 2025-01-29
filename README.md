@@ -1,4 +1,4 @@
-A Repo for showcasing some of my works in analyzing physics experiments.
+A Repo for showcasing some of my works, developing solutions for various novel physics problems.
 
 ### Charge accumulation on a coil
 
