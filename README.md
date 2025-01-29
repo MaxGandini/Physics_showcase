@@ -1,4 +1,4 @@
-A repository showcasing some of my work, where I develop solutions for various novel physics problems I encountered while doing extra work during laboratories or research for the sake of research.
+A repository showcasing some of my work, where I develop solutions for various novel physics problems I encountered while doing out-of-curriculum work during laboratories, final projects or research for the sake of research.
 
 ### Charge accumulation on a coil
 
