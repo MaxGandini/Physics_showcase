@@ -14,12 +14,11 @@ https://github.com/user-attachments/assets/f202b949-f083-4c97-a799-b76e74b191d3
 ### Glow experiment with Helium and Air
 
 Analyzed the Spectrum of Helium and found a mismatch between the measured data and the 
-one tabulated at the NIST institute. Explained the mismatch by proposing thermic doppler effects,
-and with the theory calculating the temperature of electrons in the gas, coinciding with other
-papers in the field.
+one tabulated at the NIST institute. Every frequency was shifted to longer wavelengths (reminiscent of red-shifts) .
+Explained the mismatch by proposing thermic doppler effects, and with the theory calculating the temperature of electrons in the gas, 
+coinciding with other papers in the field.
 
-![rupture](https://github.com/user-attachments/assets/cc3f264c-64e6-43ec-9909-a5a05efc0139)
-![paschen](https://github.com/user-attachments/assets/6c065103-0804-4193-9643-7945878a8960)
+[Espectro-Helio.pdf](https://github.com/user-attachments/files/18582499/Espectro-Helio.pdf)
 
 ### Song of the Quet Zal
 
