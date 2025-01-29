@@ -1,4 +1,4 @@
-A Repo for showcasing some of my works, developing solutions for various novel physics problems.
+A repository showcasing some of my work, where I develop solutions for various novel physics problems.
 
 ### Charge accumulation on a coil
 
