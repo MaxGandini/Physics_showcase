@@ -11,9 +11,9 @@ https://github.com/user-attachments/assets/f202b949-f083-4c97-a799-b76e74b191d3
 
 ![Figure 2022-07-05 033338](https://github.com/user-attachments/assets/f5fc8505-c65a-4184-a886-f5cbc0d4184a)
 
-### Glow experiment with Helium and Air
+### Unconventional method for measuring electron temperature in a gas:
 
-Analyzed the Spectrum of Helium and found a mismatch between the measured data and the one tabulated at the NIST institute. Every frequency was shifted to longer wavelengths (reminiscent of red-shifts).
+During a Glow experiment, analyzed the Spectrum of Helium and found a mismatch between the measured data and the one tabulated at the NIST institute. Every frequency was shifted to longer wavelengths (reminiscent of red-shifts).
 Explained the mismatch by proposing thermic doppler effects, and with the theory calculating the temperature of electrons in the gas, 
 coinciding with other papers in the field.
 
